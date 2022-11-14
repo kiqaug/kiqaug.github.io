@@ -7,3 +7,7 @@ Bem-vindo! Meu nome é Caique Dioceser, sou aluno de graduação do curso de Eng
 - Conhecimento em integração de máquinas e sistemas elétricos, com implementação de sistemas de controle e automatizados. Conhecimento em linguagem C e aplicação em microcontroladores PIC.
 
 - Boa comunicação oral e escrita, dinamismo, pró-ativismo, gestão de pessoas, gestão de projetos e experiência com marketing e pacote Office.
+
+## Também conhecido como:
+
+![Texto Alternativo](https://linkDaimagem.jpg)
